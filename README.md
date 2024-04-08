@@ -33,6 +33,7 @@ On the home page, before the user signs in, it can only be used to look up the r
 
 ### Home Page (after logging in)
 Once the user logs in, it will show the user's available balance and the buy/sell buttons. Users can buy or sell the select symbol by querying the stock information. Users can buy with enough available balance and sell with enough inventory.
+
 ![After Logging in](demo/AfterLogin.png)
 
 ### Buy/Sell functionality
